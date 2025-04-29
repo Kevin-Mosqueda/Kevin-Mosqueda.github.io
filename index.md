@@ -1,6 +1,6 @@
 # Hello World
 
-This is my home page! My name is Your Name and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer science.
+This is my home page! My name is Kevin Mosqueda and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer science.
 
 ## Computer Science Projects
 
